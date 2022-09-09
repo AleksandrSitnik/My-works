@@ -28,14 +28,14 @@
 - **'Churn'** — факт оттока в текущем месяце.
 
 ## Используемые библиотеки
-**pandas**
-**numpy**
-**seaborn**
-**matplotlib**
-**plotly**
-**sklearn**
-**scipy**
-**warnings**
+- **pandas**
+- **numpy**
+- **seaborn**
+- **matplotlib**
+- **plotly**
+- **sklearn**
+- **scipy**
+- **warnings**
 
 ## Этапы проведения исследовния
 - Загрука данных
