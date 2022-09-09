@@ -30,14 +30,14 @@
 - **churn** — уходит или нет
 
 ## Используемые библиотеки
-**pandas**
-**numpy**
-**seaborn**
-**plotly**
-**phik**
-**scipy**
-**statsmodels**
-**bootstrapped**
+- **pandas**
+- **numpy**
+- **seaborn**
+- **plotly**
+- **phik**
+- **scipy**
+- **statsmodels**
+- **bootstrapped**
 
 ## Этапы проведения исследовния
 - Загрузка данных
